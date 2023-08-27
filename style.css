@@ -1,0 +1,21 @@
+
+body{
+    background-color: black;
+    
+    color: white;
+
+}
+
+.highlight{
+    background-color: blue;
+}
+
+#specialText{
+    color: green;
+    font-weight: 900;
+}
+
+.para{
+    border: 2px solid yellow;
+}
+
